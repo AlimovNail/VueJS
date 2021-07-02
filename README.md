@@ -1,24 +1,11 @@
-# first-project
+# HomeWork -1 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
+# Задание
+Установить vue-cli
+Создать новое приложение vue@2.x c использование vue-cli
+Повторить код калькулятора
+Также в качестве домашнего задания мы предлагаем расширить возможности нашего калькулятора который мы написали на уроке. Добавьте кнопки и возможность выполнения следующих действий:
+Возведение в степень
+Целочисленное деление
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
